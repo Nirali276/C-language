@@ -8,7 +8,7 @@ int main() {
 
     // Loop to find divisors of n
     for (int i = 1; i <= n / 2; i++) {
-        if (n % i == 0) {  // Check if i is a divisor
+        if (n % i == 0) {  
             sum = sum + i;
         }
     }
