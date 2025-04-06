@@ -5,7 +5,7 @@
 void areaOfCircle();
 
 int main() {
-    areaOfCircle(); // Function calling
+    areaOfCircle(); 
     return 0;
 }
 
