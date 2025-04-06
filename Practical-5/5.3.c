@@ -6,7 +6,7 @@ int main() {
     printf("Enter an integer: ");
     scanf("%d", &n);
 
-    org = n;  // Store original value before modification
+    org = n; 
 
     while (n != 0) {
         rem = n % 10;
